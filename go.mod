@@ -1,4 +1,4 @@
-module github.com/quanergyo/protos
+module github.com/quanergyO/protos
 
 go 1.22.2
 
